@@ -8,6 +8,6 @@ In this project ,I have built and evaluated random forest regressor model using 
 - Performed Exploratory Data Analysis (EDA) and data visualization with seaborn .
 - Calculated the model accuracy and explained variance score of the model
 
-1. [Notebook Link](https://github.com/ditikrushna/Predict-Sales-Revenue-Using-Multiple-Regression-Model/blob/master/multiple.ipynb)
+1. [Notebook Link](https://github.com/anandbharadwaj1/Housing-Price-Prediction/blob/main/housing_prices_pred.ipynb)
 
 2. [Dataset Link](https://github.com/ditikrushna/Predict-Sales-Revenue-Using-Multiple-Regression-Model/blob/master/Advertising.csv)
