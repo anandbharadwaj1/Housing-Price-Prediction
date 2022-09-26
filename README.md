@@ -10,4 +10,4 @@ In this project ,I have built and evaluated random forest regressor model using 
 
 1. [Notebook Link](https://github.com/anandbharadwaj1/Housing-Price-Prediction/blob/main/housing_prices_pred.ipynb)
 
-2. [Dataset Link](https://github.com/ditikrushna/Predict-Sales-Revenue-Using-Multiple-Regression-Model/blob/master/Advertising.csv)
+2. [Dataset Link](https://github.com/anandbharadwaj1/Housing-Price-Prediction/blob/main/kc_house_data.csv)
